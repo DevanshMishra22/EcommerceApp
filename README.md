@@ -17,7 +17,7 @@ This is the Frontend Part of the Ecommerce project please find the backend Repo 
 
 ## Screenshots
 
-![App Screenshot](https://drive.google.com/file/d/19_McTy8SW191NGw37C2NEJ7ZvuAw_U0g/view?usp=drive_link)
+![App Screenshot] (https://drive.google.com/file/d/19_McTy8SW191NGw37C2NEJ7ZvuAw_U0g/view?usp=drive_link)
 
 
 ## Installation
